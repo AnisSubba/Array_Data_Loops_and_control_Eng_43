@@ -17,7 +17,13 @@ public class Main {
 //
 //        breexit.doomday();
 //        chesire.doomday();
-        CastingObjects roundoff = new CastingObjects();
-        roundoff.printOut();
+//        CastingObjects roundoff = new CastingObjects();
+//        roundoff.printOut();
+//        OnlineShopping shopping = new OnlineShopping();
+//        shopping.printBasics();
+//        String[] removeList = {"milk"};
+//        shopping.newBasicArr(removeList);
+        RecursionExample exampleFibo = new RecursionExample();
+        System.out.println(exampleFibo.fibonacciEx(5));
     }
 }
