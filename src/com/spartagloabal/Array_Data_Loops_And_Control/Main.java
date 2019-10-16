@@ -23,7 +23,9 @@ public class Main {
 //        shopping.printBasics();
 //        String[] removeList = {"milk"};
 //        shopping.newBasicArr(removeList);
-        RecursionExample exampleFibo = new RecursionExample();
-        System.out.println(exampleFibo.fibonacciEx(5));
+//        RecursionExample exampleFibo = new RecursionExample();
+//
+        calculatorBirthday calulator = new calculatorBirthday();
+        calulator.birthDate();
     }
 }
