@@ -14,9 +14,9 @@ public class OnlineShopping {
             System.out.println(removeItem[i]);
             for(int j = 0; j < shoppingBasicArr.length; j++){
                 System.out.println(shoppingBasicArr[j]);
-                if (shoppingBasicArr[i] != removeItem[j]){
-                    updateBasicArr[iCount] = shoppingBasicArr[i];
-                    iCount++;
+//                if (shoppingBasicArr[i] != removeItem[j]){
+//                    updateBasicArr[iCount] = shoppingBasicArr[i];
+//                    iCount++;
                 }
 
             }
